@@ -1,4 +1,3 @@
-## AlloyTouch实战--60行代码搞定QQ看点资料卡 
 link:https://github.com/AlloyTeam/AlloyTouch/wiki/kandian
 
 <h1 align=center>
